@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'mongo',                           '~> 2.18.2'
   s.add_dependency 'mongoid',                         '~> 8.1', '>= 8.1.2'
-  s.add_dependency 'mongoid-tree',                    '~> 2.1.0'
+  s.add_dependency 'mongoid-tree',                    '~> 2.2.0'
   s.add_dependency 'origin',                          '~> 2.3.1'
 
   # s.add_dependency 'custom_fields',                   '~> 2.13.1'
